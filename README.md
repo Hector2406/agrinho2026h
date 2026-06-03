@@ -1,1 +1,6 @@
-# agrinho2026h
+O site "Agro: Futuro Sustentável – Equilíbrio entre Produção e Meio Ambiente" foi desenvolvido para destacar a importância da sustentabilidade no agronegócio, mostrando como é possível aumentar a produção de alimentos e matérias-primas sem comprometer os recursos naturais. A página apresenta informações sobre práticas sustentáveis, gestão eficiente da água, uso de energias renováveis e preservação ambiental, utilizando um design moderno e interativo para facilitar a compreensão do tema.
+
+Uso da Inteligência Artificial na Criação
+
+A Inteligência Artificial (ChatGPT) foi utilizada como ferramenta de apoio no desenvolvimento do site, auxiliando na geração da estrutura em HTML, na estilização com CSS e na programação das funcionalidades em JavaScript. Além disso, a IA contribuiu para a organização do conteúdo, escolha de elementos visuais e criação de recursos interativos, tornando o processo de desenvolvimento mais rápido, eficiente e criativo. Dessa forma, a tecnologia demonstra seu potencial para apoiar a criação de soluções digitais voltadas à educação e conscientização sobre sustentabilidade.
+Prompt usado: "crie uma pagina na web com o tema de agro, futuro sustentavel: equilibrio entre a produção e meio ambiente com as linguagens html, css, e JavaScript e separe cada linguagem."
